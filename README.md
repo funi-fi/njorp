@@ -1,12 +1,12 @@
-# Funifi ÑORP
+# Funifi Ñorp
 ### Lo-Fi 8Bit Synthesizer
 
-Njorp is a DIY synthesizer, a simplification of famous 8BitMixtape synthesizer. It is based on the Arduino-compatible ATTINY85, featuring one main potentiometer, crude touch / moisture sensor, and the audiobootloader, enabling uploading new codes using an audio communication protocol by just playing a .wav sound file from your computer/smart phone. Please visit the original 8BitMixtape project here and consider supporting the project by ordering one. It is one cool little synth with lot of lights on.<br>
+Ñorp is a DIY synthesizer, a simplification of famous 8BitMixtape synthesizer. It is based on the Arduino-compatible ATTINY85, featuring one main potentiometer, crude touch / moisture sensor, and the audiobootloader, enabling uploading new codes using an audio communication protocol by just playing a .wav sound file from your computer/smart phone. Please visit the original 8BitMixtape project here and consider supporting the project by ordering one. It is one cool little synth with lot of lights on.<br>
 http://neo.8bitmixtape.cc/
 
 ### First edition: 2019 Norpas festival workshop
 
-The Njorp version was designed for the purpose of short introduction workshop for making simple electronic instrument for beginners in DIY. There is only handful of components for participants to solder and should be easy enough for completion in an hour or so. 
+The Ñorp -version was designed for the purpose of short introduction workshop for making simple electronic instrument for beginners in DIY. There is only handful of components for participants to solder and should be easy enough for completion in an hour or so. 
 
 This project is in process, new information updated during the festival August 2nd - 4th, 2019. Workshop info in Finnish below.
 
