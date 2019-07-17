@@ -1,4 +1,4 @@
-# Funifi Njorp
+# Funifi ÑORP
 ### Lo-Fi 8Bit Synthesizer
 
 Njorp is a DIY synthesizer, a simplification of famous 8BitMixtape synthesizer. It is based on the Arduino-compatible ATTINY85, featuring one main potentiometer, crude touch / moisture sensor, and the audiobootloader, enabling uploading new codes using an audio communication protocol by just playing a .wav sound file from your computer/smart phone. Please visit the original 8BitMixtape project here and consider supporting the project by ordering one. It is one cool little synth with lot of lights on.<br>
