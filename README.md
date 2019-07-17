@@ -22,7 +22,7 @@ This project is in process, new information updated during the festival August 2
 
 Tule tekemään oma pieni elektroninen soitin ÑORP eli Njorppi Tuomon työpajaan. Rakennamme pienen vekottimen, josta pörinää ja vinkua riittää. Opit miten elektroninen ääni syntyy ja kolvaamaan muutamia komponentteja piirlevyyn. Jos Arduino ohjelmointi on tuttua kerron miten koodataan uusia surinoita. Et tarvitse aikaisempaa kokemusta elektronisesta rakentelusta, mutta alakouluikäisten ja sitä nuorempien mukana on syytä olla yksi nuori tai aikuinen avustaja.
 
-Ääninäyte: Priiiiiiiph-wup-wup-wup-shtzs-tsih-tsih-tnöööööt.
+Ääninäyte: Priiiiiiiph-wup-wup-wup-shtzs-tsih-tsih-tnöööööt.<br>
 https://www.festivalnorpas.fi/2019/fi/rakenna-oma-elektroninen-soitin/
 
 Tuomo Tammenpää on kemiöläinen suunnittelija, yrittäjä ja taiteilja, joka on työskennellyt yhdessäoppimisen ja työpajailun parissa pitkään. Uteliaisuus, kokeilu ja yhteisten löydösten jakaminen on keskeinen osa hänen työskentelymetodeja niin aikuisten kuin lastenkin kanssa. Tuomo on ohjannut elektronisen värkkäilyn työpajoja vasta-alkajille ja vähän kokeneemmillekin lännestä itään.
