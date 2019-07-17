@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Njorp_PCB")(type KiCad)(uri "$(KIPRJMOD)/Njorp_PCB.pretty")(options "")(descr ""))
+)
