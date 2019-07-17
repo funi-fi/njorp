@@ -12,7 +12,9 @@ This project is in process, new information updated during the festival August 2
 
 ### PCB, the first version
 
-
+![Tracespace_io_1](https://user-images.githubusercontent.com/37023311/61357639-50b81680-a881-11e9-9168-3e025f97f7ee.png)
+![Tracespace_io_2](https://user-images.githubusercontent.com/37023311/61357640-50b81680-a881-11e9-856d-3c3459056099.png)
+![Tracespace_io_3](https://user-images.githubusercontent.com/37023311/61357641-5150ad00-a881-11e9-82ab-efb340914393.png)
 
 --------
 
