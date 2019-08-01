@@ -1,6 +1,9 @@
 # Funifi Ñorp
 ### Lo-Fi 8Bit Synthesizer
 
+![20190731_171619](https://user-images.githubusercontent.com/37023311/62308352-e234a480-b48d-11e9-9d4a-261f6ced47f7.jpg)
+![20190731_171628](https://user-images.githubusercontent.com/37023311/62308353-e234a480-b48d-11e9-90b5-45d4863e0939.jpg)
+
 Ñorp is a DIY synthesizer, a simplification of famous 8BitMixtape synthesizer. It is based on the Arduino-compatible ATTINY85, featuring one main potentiometer, crude touch / moisture sensor, and the audiobootloader, enabling uploading new codes using an audio communication protocol by just playing a .wav sound file from your computer/smart phone. Please visit the original 8BitMixtape project here and consider supporting the project by ordering one. It is one cool little synth with lot of lights on.<br>
 http://neo.8bitmixtape.cc/
 
