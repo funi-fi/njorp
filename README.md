@@ -11,7 +11,11 @@ http://neo.8bitmixtape.cc/
 
 The Ñorp -version was designed for the purpose of short introduction workshop for making simple electronic instrument for beginners in DIY. There is only handful of components for participants to solder and should be easy enough for completion in an hour or so. 
 
-This project is in process, new information updated during the festival August 2nd - 4th, 2019. Workshop info in Finnish below.
+As mentioned above, Njorp is compatible with 8BitMixtape patches, main difference being, there are no Neopixel RGB LED's by default, so no blinking lights. Also, instead of two potentiometers, the other analog input is the "touch" / moisture sensor (bird legs). Within the short two-hour Norpas session, we did not add the buttons either. Testing the Njorp we used the "Minisynth" patch from main 8BitMixtape catalogue:
+
+http://neo.8bitmixtape.cc/mixtape
+
+This project is in process, new information will be updated if new workshops are organised.
 
 ### PCB, the first version
 
